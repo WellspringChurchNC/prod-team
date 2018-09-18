@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/WellspringChurchNC/prod-te
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-I copied all of the content in the wiki md "file" and pasted it into a new pages md file:
+I copied all of the content in the wiki md "file" and pasted it into a new pages md file:<br>
 [Personal Equipment](Personal-Equipment)
 
 ### Markdown
