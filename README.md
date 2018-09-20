@@ -9,6 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I copied all of the content in the wiki md "file" and pasted it into a new pages md file:<br>
 [Personal Equipment](Personal-Equipment)
 
+PCO schedule
+<iframe src="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public"></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
