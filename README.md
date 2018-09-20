@@ -9,10 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 I copied all of the content in the wiki md "file" and pasted it into a new pages md file:<br>
 [Personal Equipment](Personal-Equipment)
 
-PCO schedule
-
-<iframe src="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public" style="width:100%; height:500px;" frameborder="0" id="idZenPlannerFrame">
-<noframes><a href="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public"></a></noframes> </iframe>
+[PCO schedule](https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public)
 
 ### Markdown
 
