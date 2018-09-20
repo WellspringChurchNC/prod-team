@@ -10,8 +10,9 @@ I copied all of the content in the wiki md "file" and pasted it into a new pages
 [Personal Equipment](Personal-Equipment)
 
 PCO schedule
-<iframe src="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public"></iframe>
 
+<iframe src="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public" style="width:100%; height:500px;" frameborder="0" id="idZenPlannerFrame">
+<noframes><a href="https://services.planningcenteronline.com/service_types/472132/plans/after/20180922/public"></a></noframes> </iframe>
 
 ### Markdown
 
